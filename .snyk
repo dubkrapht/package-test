@@ -9,3 +9,6 @@ patch:
   'npm:ms:20170412':
     - nodemailer-mailgun-transport > mailgun-js > debug > ms:
         patched: '2017-11-27T09:22:12.248Z'
+  'npm:moment:20170905':
+    - chart.js > moment:
+        patched: '2017-12-01T08:01:34.931Z'
