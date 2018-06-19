@@ -32,7 +32,7 @@
     "joi": "^13.0.0",
     "joi-date-extensions": "^1.1.0",
     "js-sha256": "^0.6.0",
-    "jsonwebtoken": "^7.4.3",
+    "jsonwebtoken": "^8.0.0",
     "lodash": "^4.17.4",
     "md5": "^2.2.1",
     "moment-timezone": "^0.5.13",
